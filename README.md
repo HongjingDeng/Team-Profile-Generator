@@ -13,5 +13,5 @@ This app is to build a Node CLI that takes in information about employees and ge
 
 ### Below is an example of what the application may look like.
 
-![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
-![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
+![Employee Summary 1](./Assets/demo.png)
+![Employee Summary 2](./Assets/newTeam.png)

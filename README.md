@@ -13,5 +13,6 @@ This app is to build a Node CLI that takes in information about employees and ge
 
 ### Below is an example of what the application look like.
 (https://media.giphy.com/media/DgQXN7PprNsA6C5QO6/giphy.gif)
+![deomo](./Assets/css/demo.gif)
 ![Employee Summary 1](./Assets/css/demo.png)
 ![Employee Summary 2](./Assets/css/newTeam.png)

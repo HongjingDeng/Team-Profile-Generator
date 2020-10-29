@@ -11,7 +11,7 @@ d
 This app is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, so testing will also used here to ensure that all unit tests pass.
 
 
-### Below is an example of what the application may look like.
-
+### Below is an example of what the application look like.
+(https://media.giphy.com/media/DgQXN7PprNsA6C5QO6/giphy.gif)
 ![Employee Summary 1](./Assets/demo.png)
 ![Employee Summary 2](./Assets/newTeam.png)
